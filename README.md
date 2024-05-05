@@ -4,7 +4,7 @@ Youtube video link:https://youtu.be/Mc9eDDpaN6Q
 *1. Introduction:*
    The Pet Care App is designed to assist pet owners in managing their pet's basic needs such as feeding, cleaning, and playing. This comprehensive report discusses the purpose of the app, design considerations, and the integration of GitHub and GitHub Actions in the development process.
 
-*2. PYoue of the App:*
+*2. Purpose of the App:*
    The purpose of the Pet Care App is to provide pet owners with a convenient tool to monitor and manage their pet's well-being. It aims to simplify pet care tasks by offering a user-friendly interface and intuitive features. The key functionalities of the app include:
    - Feeding: Allows users to feed their pets and track their hunger levels.
    - Cleaning: Enables users to clean their pets and maintain their cleanliness.
